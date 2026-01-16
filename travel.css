@@ -1,0 +1,46 @@
+.hero{
+    background-image: url(https://plus.unsplash.com/premium_photo-1678727128583-b7bb1b4763b5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGxhbmUlMjB0cmF2ZWx8ZW58MHx8MHx8fDA%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+body{
+    background-color: whitesmoke;
+}
+
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.cardbox{
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+}
+.card.h-100{
+    display: flex;
+    flex-direction: column;
+}
+
+    
+.container-fluid{
+    color: powderblue;
+}
+.carouselslide{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
